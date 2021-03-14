@@ -1,0 +1,8 @@
+Date: 06-03-2021
+Systolic pressure(upper):8
+Diastolic pressure(lower):6
+BMI:19.10
+Blood Sugar(mmol/L):7.00
+Heart rate at rest(BPM):78
+Body Temperature (F):6.00
+---------------------------
